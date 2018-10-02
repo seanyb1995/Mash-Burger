@@ -21,6 +21,8 @@ require_once('../../../../wp-load.php');
   array_push($_SESSION['single_item'], $item);
   array_push($_SESSION['order'], $_SESSION['single_item']);
 
+  print_r($_SESSION['order']);
+
   // redirect back to page with dbsa-sucess query set to 1
   $msg= 'The item has been added to your order.';
   header("Location: $referer?appointment-added=1&msg=$msg");

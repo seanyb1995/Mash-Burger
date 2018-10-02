@@ -17,7 +17,6 @@ if( ! function_exists( 'mb_customer_add_order_button' ) ) {
         <input type="submit" name="submit" value="Add To Order">
     </form>
     <?php
-    print_r($_SESSION['order']);
     }
 }
 
@@ -28,19 +27,18 @@ if ( !function_exists( 'mb_order_docket' ) ) {
         <div class="mb_order_docket_wrap">
             <p>
             <?php 
-            $orders = json_encode($_SESSION['order']);
             
-            for($i = 0; $i < $orders.length; $i++){
-                foreach($orders as $order){
-                    ?>
-                    <td><?php echo $orders[$i]; ?> </td>
-                    <?php
+            $orders = ($_SESSION['order']);
+            $length = count($orders);
+            
+            for($i = 0; $i < $length; $i++){
+                foreach($orders as $order)
+                ?><td><?php echo $orders[$i][0]; ?></td><br><?php
                 }
                 
-            }
             ?>
             </p>
-            <form action="<?php echo $customer_order_plugin_root_url; ?>/wp-content/plugins/mb-customer-order/inc/customer-order-add.1.php" method="post">
+            <form action="<?php echo $customer_order_plugin_root_url; ?>/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php" method="post">
                 <input type="hidden" name="referer" value="<?php echo get_permalink() ?>">
                 <input type="submit" name="submit" value="Submit Order">
             </form>
