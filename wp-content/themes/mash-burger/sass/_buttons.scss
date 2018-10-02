@@ -1,0 +1,21 @@
+/*Button One*/
+.button{
+  padding: 10px 50px;
+  outline: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 2px solid #fff;
+  font-size: 1em;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  margin-bottom: 2em;
+}
+
+.button:hover{
+  background: rgba(200, 200, 200, 0.8);
+}
+
+.button:active {
+  background: rgba(100, 100, 100, 0.6);
+}

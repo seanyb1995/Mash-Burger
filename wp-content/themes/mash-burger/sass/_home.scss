@@ -1,0 +1,54 @@
+// css home the home page
+
+
+
+// start of 'about brief' css
+// about page 
+
+
+.about-brief-wrap {
+	// margin: 0em 5em 4em 5em;
+	margin: auto;
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	height: 500px;
+//   	background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.about-brief-container {
+    width: 100%;
+}
+
+.about-brief-text {
+	display: inline-block;
+// 	background:blue;
+	width: 30%;
+	height: 300px;
+}
+
+.about-brief-text p {
+    padding: 0 0 2em 0;
+}
+
+/* only apply for media screens */
+ @media only screen and (max-width: 600px) {
+
+    .about-brief-text {
+        width: 70%;
+        position: relative;
+    }
+    
+    .about-brief-container img {
+        width: 100%;
+	   // background-color: rgba(0, 0, 0, 0.7);
+    }
+    
+    .about-brief-text a{
+        margin-bottom: 2em;
+    }
+}
+
+
+// end of about page

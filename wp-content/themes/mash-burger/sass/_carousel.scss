@@ -1,0 +1,21 @@
+#slider {
+    width: 1900px;
+    height: 838px;
+    overflow: hidden;
+}
+
+#slider .slides {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+#slider .slide {
+    list-style-type: none;
+}
+
+// .slide1 {background: red;}
+// .slide2 {background: blue;}
+// .slide3 {background: green;}
+// .slide4 {background: purple;}
+// .slide5 {background: pink;}

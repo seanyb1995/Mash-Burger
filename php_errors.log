@@ -1,0 +1,585 @@
+[03-Sep-2018 02:56:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'about_brief_options_page' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[03-Sep-2018 02:56:28 UTC] PHP Stack trace:
+[03-Sep-2018 02:56:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[03-Sep-2018 02:56:28 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[03-Sep-2018 02:56:28 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[03-Sep-2018 02:56:28 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[03-Sep-2018 02:56:28 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[03-Sep-2018 02:57:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'about_brief_options_page' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[03-Sep-2018 02:57:17 UTC] PHP Stack trace:
+[03-Sep-2018 02:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[03-Sep-2018 02:57:17 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[03-Sep-2018 02:57:17 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[03-Sep-2018 02:57:17 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[03-Sep-2018 02:57:17 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[03-Sep-2018 10:04:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/wp-content/plugins/mb-quick-enquiry/cu-quick-enquiry.php on line 18
+[03-Sep-2018 10:04:33 UTC] PHP Stack trace:
+[03-Sep-2018 10:04:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[03-Sep-2018 10:04:33 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[03-Sep-2018 10:04:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/wp-content/plugins/mb-quick-enquiry/cu-quick-enquiry.php on line 18
+[03-Sep-2018 10:04:33 UTC] PHP Stack trace:
+[03-Sep-2018 10:04:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[03-Sep-2018 10:04:33 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[03-Sep-2018 10:04:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/wp-content/plugins/mb-quick-enquiry/cu-quick-enquiry.php on line 18
+[03-Sep-2018 10:04:33 UTC] PHP Stack trace:
+[03-Sep-2018 10:04:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[03-Sep-2018 10:04:33 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[03-Sep-2018 10:18:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-about page full/mb-about.php on line 132
+[03-Sep-2018 10:18:05 UTC] PHP Stack trace:
+[03-Sep-2018 10:18:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 10:18:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 10:18:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 10:18:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 10:20:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/plugins/mb-about page full/mb-about.php on line 138
+[03-Sep-2018 10:20:06 UTC] PHP Stack trace:
+[03-Sep-2018 10:20:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 10:20:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 10:20:06 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 10:20:06 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:20:34 UTC] PHP Parse error:  syntax error, unexpected 'food_order_page_full_custom_st' (T_STRING), expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/mb-food-order.php on line 97
+[03-Sep-2018 11:20:34 UTC] PHP Stack trace:
+[03-Sep-2018 11:20:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[03-Sep-2018 11:20:34 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[03-Sep-2018 11:20:35 UTC] PHP Parse error:  syntax error, unexpected 'food_order_page_full_custom_st' (T_STRING), expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/mb-food-order.php on line 97
+[03-Sep-2018 11:20:35 UTC] PHP Stack trace:
+[03-Sep-2018 11:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[03-Sep-2018 11:20:35 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[03-Sep-2018 11:20:35 UTC] PHP Parse error:  syntax error, unexpected 'food_order_page_full_custom_st' (T_STRING), expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/mb-food-order.php on line 97
+[03-Sep-2018 11:20:35 UTC] PHP Stack trace:
+[03-Sep-2018 11:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[03-Sep-2018 11:20:35 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[03-Sep-2018 11:49:04 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/template-tags.php on line 21
+[03-Sep-2018 11:49:04 UTC] PHP Stack trace:
+[03-Sep-2018 11:49:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 11:49:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 11:49:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 11:49:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:49:04 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[03-Sep-2018 11:51:05 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/template-tags.php on line 21
+[03-Sep-2018 11:51:05 UTC] PHP Stack trace:
+[03-Sep-2018 11:51:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 11:51:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 11:51:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 11:51:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:51:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[03-Sep-2018 11:53:06 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/template-tags.php on line 21
+[03-Sep-2018 11:53:06 UTC] PHP Stack trace:
+[03-Sep-2018 11:53:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 11:53:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 11:53:06 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 11:53:06 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:53:06 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[03-Sep-2018 11:55:07 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/template-tags.php on line 21
+[03-Sep-2018 11:55:07 UTC] PHP Stack trace:
+[03-Sep-2018 11:55:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 11:55:07 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 11:55:07 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 11:55:07 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:55:07 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[03-Sep-2018 11:56:21 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/template-tags.php on line 21
+[03-Sep-2018 11:56:21 UTC] PHP Stack trace:
+[03-Sep-2018 11:56:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 11:56:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 11:56:21 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 11:56:21 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:56:21 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[03-Sep-2018 11:57:22 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/template-tags.php on line 21
+[03-Sep-2018 11:57:22 UTC] PHP Stack trace:
+[03-Sep-2018 11:57:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Sep-2018 11:57:22 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Sep-2018 11:57:22 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Sep-2018 11:57:22 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Sep-2018 11:57:22 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[10-Sep-2018 11:05:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mb_food_order_post_type' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[10-Sep-2018 11:05:04 UTC] PHP Stack trace:
+[10-Sep-2018 11:05:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[10-Sep-2018 11:05:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[10-Sep-2018 11:05:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 11:05:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 11:05:04 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 11:05:04 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:448
+[10-Sep-2018 11:05:04 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[10-Sep-2018 11:05:04 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[10-Sep-2018 11:05:04 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[10-Sep-2018 11:05:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mb_food_order_category_taxonomy' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[10-Sep-2018 11:05:04 UTC] PHP Stack trace:
+[10-Sep-2018 11:05:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[10-Sep-2018 11:05:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[10-Sep-2018 11:05:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 11:05:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 11:05:04 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 11:05:04 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:448
+[10-Sep-2018 11:05:04 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[10-Sep-2018 11:05:04 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[10-Sep-2018 11:05:04 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[10-Sep-2018 11:05:59 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/cpt-product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/mb-food-order.php on line 26
+[10-Sep-2018 11:05:59 UTC] PHP Stack trace:
+[10-Sep-2018 11:05:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[10-Sep-2018 11:05:59 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[10-Sep-2018 11:05:59 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 11:05:59 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 11:05:59 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 11:05:59 UTC] PHP   6. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[10-Sep-2018 11:05:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/wp-content/plugins/mb-food-order/inc/cpt-product.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-food-order/mb-food-order.php on line 26
+[10-Sep-2018 11:05:59 UTC] PHP Stack trace:
+[10-Sep-2018 11:05:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[10-Sep-2018 11:05:59 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[10-Sep-2018 11:05:59 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 11:05:59 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 11:05:59 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 11:05:59 UTC] PHP   6. include_once() /home/ubuntu/workspace/wp-settings.php:303
+[10-Sep-2018 11:49:55 UTC] PHP Warning:  require(/home/ubuntu/workspace/wp-content/themes/mash-burger/inc/cpt-product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/mash-burger/functions.php on line 181
+[10-Sep-2018 11:49:55 UTC] PHP Stack trace:
+[10-Sep-2018 11:49:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[10-Sep-2018 11:49:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[10-Sep-2018 11:49:55 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 11:49:55 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 11:49:55 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 11:49:55 UTC] PHP   6. include() /home/ubuntu/workspace/wp-settings.php:424
+[10-Sep-2018 11:49:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/wp-content/themes/mash-burger/inc/cpt-product.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/mash-burger/functions.php on line 181
+[10-Sep-2018 11:49:55 UTC] PHP Stack trace:
+[10-Sep-2018 11:49:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[10-Sep-2018 11:49:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[10-Sep-2018 11:49:55 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 11:49:55 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 11:49:55 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 11:49:55 UTC] PHP   6. include() /home/ubuntu/workspace/wp-settings.php:424
+[10-Sep-2018 13:33:24 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/tax_category.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/mb-menu-list.php on line 28
+[10-Sep-2018 13:33:24 UTC] PHP Stack trace:
+[10-Sep-2018 13:33:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[10-Sep-2018 13:33:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[10-Sep-2018 13:33:24 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 13:33:24 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 13:33:24 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 13:33:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/tax_category.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/mb-menu-list.php on line 28
+[10-Sep-2018 13:33:24 UTC] PHP Stack trace:
+[10-Sep-2018 13:33:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[10-Sep-2018 13:33:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[10-Sep-2018 13:33:24 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 13:33:24 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 13:33:24 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 13:33:37 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/tax_category.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/mb-menu-list.php on line 28
+[10-Sep-2018 13:33:37 UTC] PHP Stack trace:
+[10-Sep-2018 13:33:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[10-Sep-2018 13:33:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 13:33:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 13:33:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 13:33:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 13:33:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/tax_category.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/mb-menu-list.php on line 28
+[10-Sep-2018 13:33:37 UTC] PHP Stack trace:
+[10-Sep-2018 13:33:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[10-Sep-2018 13:33:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 13:33:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 13:33:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 13:33:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 13:34:51 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'mb_menu_list_category_post_type' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 286
+[10-Sep-2018 13:34:51 UTC] PHP Stack trace:
+[10-Sep-2018 13:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[10-Sep-2018 13:34:51 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 13:34:51 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 13:34:51 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 13:34:51 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:450
+[10-Sep-2018 13:34:51 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[10-Sep-2018 13:34:51 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[10-Sep-2018 13:34:51 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[10-Sep-2018 14:18:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/template-tags.php on line 102
+[10-Sep-2018 14:18:37 UTC] PHP Stack trace:
+[10-Sep-2018 14:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[10-Sep-2018 14:18:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[10-Sep-2018 14:18:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 14:18:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 14:18:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 14:18:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/template-tags.php on line 102
+[10-Sep-2018 14:18:38 UTC] PHP Stack trace:
+[10-Sep-2018 14:18:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/edit.php:0
+[10-Sep-2018 14:18:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/edit.php:10
+[10-Sep-2018 14:18:38 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 14:18:38 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 14:18:38 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 14:18:38 UTC] PHP   6. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 14:18:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/template-tags.php on line 102
+[10-Sep-2018 14:18:39 UTC] PHP Stack trace:
+[10-Sep-2018 14:18:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[10-Sep-2018 14:18:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[10-Sep-2018 14:18:39 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 14:18:39 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 14:18:39 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 14:18:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/template-tags.php on line 102
+[10-Sep-2018 14:18:42 UTC] PHP Stack trace:
+[10-Sep-2018 14:18:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[10-Sep-2018 14:18:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/post.php:12
+[10-Sep-2018 14:18:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 14:18:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 14:18:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 14:18:42 UTC] PHP   6. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[10-Sep-2018 14:18:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/mb-menu-list/inc/template-tags.php on line 102
+[10-Sep-2018 14:18:57 UTC] PHP Stack trace:
+[10-Sep-2018 14:18:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/post.php:0
+[10-Sep-2018 14:18:57 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/post.php:12
+[10-Sep-2018 14:18:57 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[10-Sep-2018 14:18:57 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[10-Sep-2018 14:18:57 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[10-Sep-2018 14:18:57 UTC] PHP   6. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[24-Sep-2018 07:44:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id')
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7 for query CREATE TABLE IF NOT EXISTS wp_customer_orders (
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY ('id')
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-menu-list/mb-menu-list.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_orders_dbsetup, dbDelta
+[24-Sep-2018 07:55:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id')
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7 for query CREATE TABLE IF NOT EXISTS wp_customer_orders (
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY ('id')
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-menu-list/mb-menu-list.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_orders_dbsetup, dbDelta
+[24-Sep-2018 07:57:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''id')
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_orders (
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY ('id')
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-menu-list/mb-menu-list.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_orders_dbsetup, dbDelta
+[24-Sep-2018 08:01:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(`id`)
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_c' at line 7 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_orders (
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY_KEY (`id`)
+                ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-menu-list/mb-menu-list.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_orders_dbsetup, dbDelta
+[24-Sep-2018 08:36:46 UTC] WordPress database error Table 'c9.wp_mb_contact_form' doesn't exist for query SELECT * from wp_mb_contact_form made by do_action('toplevel_page_mbcontactform'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_options_page, require_once('/plugins/mb-customer-order/inc/options-page-wrapper.php')
+[24-Sep-2018 08:48:59 UTC] WordPress database error Table 'c9.wp_mb_contact_form' doesn't exist for query SELECT * from wp_mb_contact_form made by do_action('toplevel_page_mbcustomerorder'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_options_page, require_once('/plugins/mb-customer-order/inc/options-page-wrapper.php')
+[24-Sep-2018 08:49:54 UTC] WordPress database error Table 'c9.wp_mb_contact_form' doesn't exist for query SELECT * from wp_mb_contact_form made by do_action('toplevel_page_mbcustomerorder'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_options_page, require_once('/plugins/mb-customer-order/inc/options-page-wrapper.php')
+[24-Sep-2018 08:52:06 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 89
+[24-Sep-2018 08:52:06 UTC] PHP Stack trace:
+[24-Sep-2018 08:52:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Sep-2018 08:52:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[24-Sep-2018 08:52:06 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[24-Sep-2018 08:52:06 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[24-Sep-2018 08:52:06 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[24-Sep-2018 08:52:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 89
+[24-Sep-2018 08:52:06 UTC] PHP Stack trace:
+[24-Sep-2018 08:52:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Sep-2018 08:52:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[24-Sep-2018 08:52:06 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[24-Sep-2018 08:52:06 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[24-Sep-2018 08:52:06 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[24-Sep-2018 09:13:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT (10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:13:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT (10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:14:09 UTC] WordPress database error Table 'c9.wp_mb_customer_order' doesn't exist for query SELECT * from wp_mb_customer_order made by do_action('toplevel_page_mbcustomerorder'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_options_page, require_once('/plugins/mb-customer-order/inc/options-page-wrapper.php')
+[24-Sep-2018 09:15:11 UTC] WordPress database error Table 'c9.wp_mb_customer_order' doesn't exist for query SELECT * from wp_mb_customer_order made by do_action('toplevel_page_mbcustomerorder'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_options_page, require_once('/plugins/mb-customer-order/inc/options-page-wrapper.php')
+[24-Sep-2018 09:17:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT (10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:18:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT (10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:20:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:21:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name VARCHAR(320) NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:21:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+      ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name VARCHAR(320) NOT NULL,
+                order VARCHAR(320) NOT NULL,
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY_KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:24:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:25:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number MEDIUMINT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:26:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:27:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 4 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number MEDIUMINT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:28:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 4 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number MEDIUMINT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:30:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id MEDIUMINT(9) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:37:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 5 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                customer_id VARCHAR(320) NOT NULL,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number VARCHAR(320) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[24-Sep-2018 09:38:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+     ' at line 4 for query CREATE TABLE IF NOT EXISTS wp_mb_customer_order(
+                id MEDIUMINT(9) NOT NULL AUTO_INCREMENT,
+                name TEXT NOT NULL,
+                order VARCHAR(320) NOT NULL, 
+                email VARCHAR(320) NOT NULL,
+                phone_number INT(10) NOT NULL,
+                PRIMARY KEY (id)
+            ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci made by activate_plugin, do_action('activate_mb-customer-order/mb-customer-order.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, mb_customer_order_dbsetup, dbDelta
+[26-Sep-2018 06:36:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 06:36:20 UTC] PHP Stack trace:
+[26-Sep-2018 06:36:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 06:36:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 06:36:20 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 06:36:20 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 06:36:20 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 06:56:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 06:56:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:56:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 06:56:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 06:56:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 06:56:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 06:56:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 06:57:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 06:57:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:57:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 06:57:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 06:57:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 06:57:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 06:57:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 06:58:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 06:58:04 UTC] PHP Stack trace:
+[26-Sep-2018 06:58:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 06:58:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 06:58:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 06:58:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 06:58:04 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 07:00:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 07:00:05 UTC] PHP Stack trace:
+[26-Sep-2018 07:00:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 07:00:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 07:00:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 07:00:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 07:00:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 07:02:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 07:02:05 UTC] PHP Stack trace:
+[26-Sep-2018 07:02:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 07:02:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 07:02:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 07:02:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 07:02:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 07:04:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 07:04:05 UTC] PHP Stack trace:
+[26-Sep-2018 07:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 07:04:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 07:04:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 07:04:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 07:04:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[26-Sep-2018 07:06:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 9
+[26-Sep-2018 07:06:05 UTC] PHP Stack trace:
+[26-Sep-2018 07:06:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Sep-2018 07:06:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Sep-2018 07:06:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Sep-2018 07:06:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Sep-2018 07:06:05 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 07:32:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 32
+[30-Sep-2018 07:32:37 UTC] PHP Stack trace:
+[30-Sep-2018 07:32:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 07:32:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 07:32:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 07:32:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 07:32:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 07:34:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 32
+[30-Sep-2018 07:34:37 UTC] PHP Stack trace:
+[30-Sep-2018 07:34:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 07:34:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 07:34:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 07:34:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 07:34:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 07:35:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 32
+[30-Sep-2018 07:35:39 UTC] PHP Stack trace:
+[30-Sep-2018 07:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 07:35:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 07:35:39 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 07:35:39 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 07:35:39 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 07:40:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 33
+[30-Sep-2018 07:40:19 UTC] PHP Stack trace:
+[30-Sep-2018 07:40:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 07:40:19 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 07:40:19 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 07:40:19 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 07:40:19 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 07:45:17 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 33
+[30-Sep-2018 07:45:17 UTC] PHP Stack trace:
+[30-Sep-2018 07:45:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 07:45:17 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 07:45:17 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 07:45:17 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 07:45:17 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 07:47:17 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 33
+[30-Sep-2018 07:47:17 UTC] PHP Stack trace:
+[30-Sep-2018 07:47:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 07:47:17 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 07:47:17 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 07:47:17 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 07:47:17 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 08:34:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 41
+[30-Sep-2018 08:34:49 UTC] PHP Stack trace:
+[30-Sep-2018 08:34:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 08:34:49 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 08:34:49 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 08:34:49 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 08:34:49 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 08:35:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 41
+[30-Sep-2018 08:35:49 UTC] PHP Stack trace:
+[30-Sep-2018 08:35:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 08:35:49 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 08:35:49 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 08:35:49 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 08:35:49 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 08:37:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 41
+[30-Sep-2018 08:37:49 UTC] PHP Stack trace:
+[30-Sep-2018 08:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 08:37:49 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 08:37:49 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 08:37:49 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 08:37:49 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 08:45:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 35
+[30-Sep-2018 08:45:52 UTC] PHP Stack trace:
+[30-Sep-2018 08:45:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 08:45:52 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 08:45:52 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 08:45:52 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 08:45:52 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 08:46:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 36
+[30-Sep-2018 08:46:51 UTC] PHP Stack trace:
+[30-Sep-2018 08:46:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 08:46:51 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 08:46:51 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 08:46:51 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 08:46:51 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 09:12:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 33
+[30-Sep-2018 09:12:18 UTC] PHP Stack trace:
+[30-Sep-2018 09:12:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 09:12:18 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 09:12:18 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 09:12:18 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 09:12:18 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[30-Sep-2018 09:17:20 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 34
+[30-Sep-2018 09:17:20 UTC] PHP Stack trace:
+[30-Sep-2018 09:17:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[30-Sep-2018 09:17:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[30-Sep-2018 09:17:20 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[30-Sep-2018 09:17:20 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[30-Sep-2018 09:17:20 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305

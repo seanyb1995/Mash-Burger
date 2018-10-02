@@ -1,0 +1,52 @@
+// about page 
+
+// wrapper for all content
+.about-info-wrap {
+	// margin: 0em 5em 4em 5em;
+	margin: auto;
+	display: inline-block;
+	text-align: center;
+  	background-color: rgba(0, 0, 0, 0.8);
+}
+
+// container for info content [includes text and images]
+.about-info-container {
+	margin: 0 0 2em 0;
+	position: relative;
+}
+
+// container for text [includes h2 and p text]
+.about-info-text {
+	position: absolute;	
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);                	
+}
+
+.about-info-container img {
+    width: 100%;
+}
+
+
+
+
+/* only apply for media screens */
+ @media only screen and (max-width: 600px) {
+
+    .about-info-text {
+        position: absolute;
+        width: 70%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .about-info-container img {
+        width: 100%;
+  	    background-color: rgba(200, 200, 200, 0.8);
+    }
+    
+}
+
+
+// end of about page

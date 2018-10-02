@@ -1,0 +1,36 @@
+/* footer */
+footer.site-footer {
+	text-align: center;
+	color: #000;
+	font-size: 0.8em;
+	background-color: rgba(0, 0, 0, 0.6);
+	width:100%;
+}
+
+footer.site-footer h1, h2, p {
+	color: white;
+	font-size: 18px;
+}
+
+.site-info {
+	display: inline-block;
+	padding: 3em 0 3em 0;
+}
+
+.foot-head {
+	margin: 0 10em 0 0;
+	display: inline-block;
+}
+
+/* footer site title */
+.footer-title {
+	display: inline-block;
+	margin: 0 2em 0 0;
+}
+
+/* footer logo */
+.site-info img {
+	width:30px;
+	height:30px;
+	display: inline-block;
+}

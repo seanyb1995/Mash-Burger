@@ -1,0 +1,25 @@
+.mb-contactform-wrap {
+    border: 2px solid #000;
+    padding: 1em;
+    margin-bottom: 1.5em;
+}
+
+.mb-contactform-wrap h3 {
+    margin-top: 0;
+    font-size: 1.3em;
+}
+
+.mb-contactform-btn {
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    padding: 0.3em 0.8em;
+    font-size: 20px;
+}
+
+.mb-contactform-btn:hover {
+    background: #444;
+    color: #fff;
+}
