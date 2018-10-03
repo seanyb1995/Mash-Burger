@@ -7,6 +7,18 @@
 */
 
 session_start();
+  
+  // 0. Setting Order variable and resetting single item array
+  if  ( ! isset($_SESSION['order'])) {
+  $_SESSION['order'] = array();
+  }
+  $_SESSION['single_item'] = array();
+  
+   // 0. Setting Price variable and resetting single price array
+  if  ( ! isset($_SESSION['price'])) {
+  $_SESSION['price'] = array();
+  }
+  $_SESSION['single_price'] = array();
 
 require_once('../../../../wp-load.php');
 
@@ -14,22 +26,22 @@ require_once('../../../../wp-load.php');
   if (isset($_POST['submit'])) {
   $referer = $_POST['referer'];
   $item = $_POST['item'];
-  
+  $price = $_POST['price'];
+
   // 2. Create session array and push order item into array
-  
-  $_SESSION['single_item'] = array();
   array_push($_SESSION['single_item'], $item);
   array_push($_SESSION['order'], $_SESSION['single_item']);
+  
+  // 3. Create session array and push order price into array
+  array_push($_SESSION['single_price'], $price);
+  array_push($_SESSION['price'], $_SESSION['single_price']);
 
-  print_r($_SESSION['order']);
-
-  // redirect back to page with dbsa-sucess query set to 1
+/* redirect back to page with dbsa-sucess query set to 1*/
   $msg= 'The item has been added to your order.';
   header("Location: $referer?appointment-added=1&msg=$msg");
   exit();
 
 }
 
-$_SESSION['order'] = array();
-
 ?>
+

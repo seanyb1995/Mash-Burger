@@ -16,7 +16,8 @@ get_header();
 		<main id="main" class="site-main">
 			
 			<h1><?php the_title(); ?></h1>
-	
+			
+			<?php mb_custom_burger(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->

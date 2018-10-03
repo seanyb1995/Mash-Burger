@@ -583,3 +583,45 @@
 [30-Sep-2018 09:17:20 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
 [30-Sep-2018 09:17:20 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
 [30-Sep-2018 09:17:20 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[03-Oct-2018 01:55:37 UTC] PHP Warning:  require_once(inc/cpt-product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 123
+[03-Oct-2018 01:55:37 UTC] PHP Stack trace:
+[03-Oct-2018 01:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Oct-2018 01:55:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Oct-2018 01:55:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Oct-2018 01:55:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Oct-2018 01:55:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[03-Oct-2018 01:55:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/cpt-product.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 123
+[03-Oct-2018 01:55:37 UTC] PHP Stack trace:
+[03-Oct-2018 01:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Oct-2018 01:55:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Oct-2018 01:55:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Oct-2018 01:55:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Oct-2018 01:55:37 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[03-Oct-2018 01:57:11 UTC] PHP Warning:  require_once(inc/cpt-product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 123
+[03-Oct-2018 01:57:11 UTC] PHP Stack trace:
+[03-Oct-2018 01:57:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Oct-2018 01:57:11 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Oct-2018 01:57:11 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Oct-2018 01:57:11 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Oct-2018 01:57:11 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[03-Oct-2018 01:57:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/cpt-product.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 123
+[03-Oct-2018 01:57:11 UTC] PHP Stack trace:
+[03-Oct-2018 01:57:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[03-Oct-2018 01:57:11 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[03-Oct-2018 01:57:11 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Oct-2018 01:57:11 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Oct-2018 01:57:11 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[03-Oct-2018 01:57:13 UTC] PHP Warning:  require_once(inc/cpt-product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 123
+[03-Oct-2018 01:57:13 UTC] PHP Stack trace:
+[03-Oct-2018 01:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[03-Oct-2018 01:57:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[03-Oct-2018 01:57:13 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Oct-2018 01:57:13 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Oct-2018 01:57:13 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[03-Oct-2018 01:57:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/cpt-product.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/mb-customer-order.php on line 123
+[03-Oct-2018 01:57:13 UTC] PHP Stack trace:
+[03-Oct-2018 01:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[03-Oct-2018 01:57:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[03-Oct-2018 01:57:13 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[03-Oct-2018 01:57:13 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[03-Oct-2018 01:57:13 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305

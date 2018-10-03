@@ -153,3 +153,201 @@
 [02-Oct-2018 06:15:11 UTC] PHP Stack trace:
 [02-Oct-2018 06:15:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:0
 [02-Oct-2018 06:15:11 UTC] PHP   2. preg_replace() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:22
+[02-Oct-2018 06:51:15 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE) in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php on line 20
+[02-Oct-2018 08:59:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 08:59:59 UTC] PHP Stack trace:
+[02-Oct-2018 08:59:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 08:59:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 09:00:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 09:00:06 UTC] PHP Stack trace:
+[02-Oct-2018 09:00:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:00:06 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 09:00:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 09:00:58 UTC] PHP Stack trace:
+[02-Oct-2018 09:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:00:58 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 09:05:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 09:05:27 UTC] PHP Stack trace:
+[02-Oct-2018 09:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:05:27 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 09:07:15 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 09:07:15 UTC] PHP Stack trace:
+[02-Oct-2018 09:07:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:07:15 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 09:27:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 23
+[02-Oct-2018 09:27:17 UTC] PHP Stack trace:
+[02-Oct-2018 09:27:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:27:17 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:23
+[02-Oct-2018 09:27:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 27
+[02-Oct-2018 09:27:17 UTC] PHP Stack trace:
+[02-Oct-2018 09:27:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:27:17 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:27
+[02-Oct-2018 09:34:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 23
+[02-Oct-2018 09:34:11 UTC] PHP Stack trace:
+[02-Oct-2018 09:34:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:34:11 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:23
+[02-Oct-2018 09:34:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 28
+[02-Oct-2018 09:34:11 UTC] PHP Stack trace:
+[02-Oct-2018 09:34:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:34:11 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:28
+[02-Oct-2018 09:34:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 23
+[02-Oct-2018 09:34:25 UTC] PHP Stack trace:
+[02-Oct-2018 09:34:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:34:25 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:23
+[02-Oct-2018 09:37:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 09:37:59 UTC] PHP Stack trace:
+[02-Oct-2018 09:37:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:37:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 09:38:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 09:38:08 UTC] PHP Stack trace:
+[02-Oct-2018 09:38:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:38:08 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 09:38:33 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 09:38:33 UTC] PHP Stack trace:
+[02-Oct-2018 09:38:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:38:33 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 09:39:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 09:39:44 UTC] PHP Stack trace:
+[02-Oct-2018 09:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:39:44 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 09:40:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 09:40:16 UTC] PHP Stack trace:
+[02-Oct-2018 09:40:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:40:16 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 09:40:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 09:40:31 UTC] PHP Stack trace:
+[02-Oct-2018 09:40:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:40:31 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 09:52:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 09:52:10 UTC] PHP Stack trace:
+[02-Oct-2018 09:52:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:52:10 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 09:52:33 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 22
+[02-Oct-2018 09:52:33 UTC] PHP Stack trace:
+[02-Oct-2018 09:52:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 09:52:33 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:22
+[02-Oct-2018 10:09:30 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 21
+[02-Oct-2018 10:17:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 10:17:49 UTC] PHP Stack trace:
+[02-Oct-2018 10:17:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:17:49 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 10:18:51 UTC] PHP Parse error:  syntax error, unexpected 'back' (T_STRING) in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 36
+[02-Oct-2018 10:19:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 10:19:11 UTC] PHP Stack trace:
+[02-Oct-2018 10:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:19:11 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 10:19:28 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 10:19:28 UTC] PHP Stack trace:
+[02-Oct-2018 10:19:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:19:28 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 10:19:28 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 10:19:28 UTC] PHP Stack trace:
+[02-Oct-2018 10:19:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:19:28 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 10:19:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 12
+[02-Oct-2018 10:21:41 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 10:21:41 UTC] PHP Stack trace:
+[02-Oct-2018 10:21:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:21:41 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 10:21:41 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 10:21:41 UTC] PHP Stack trace:
+[02-Oct-2018 10:21:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:21:41 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 10:23:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 10:23:57 UTC] PHP Stack trace:
+[02-Oct-2018 10:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:23:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 10:27:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 30
+[02-Oct-2018 10:27:59 UTC] PHP Stack trace:
+[02-Oct-2018 10:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:27:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:30
+[02-Oct-2018 10:28:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 30
+[02-Oct-2018 10:28:06 UTC] PHP Stack trace:
+[02-Oct-2018 10:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:28:06 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:30
+[02-Oct-2018 10:28:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 29
+[02-Oct-2018 10:28:25 UTC] PHP Stack trace:
+[02-Oct-2018 10:28:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:28:25 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:29
+[02-Oct-2018 10:34:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 12
+[02-Oct-2018 10:35:35 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 12
+[02-Oct-2018 10:56:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 27
+[02-Oct-2018 10:56:17 UTC] PHP Stack trace:
+[02-Oct-2018 10:56:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:56:17 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:27
+[02-Oct-2018 10:56:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 27
+[02-Oct-2018 10:56:59 UTC] PHP Stack trace:
+[02-Oct-2018 10:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 10:56:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:27
+[02-Oct-2018 11:23:56 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 11:23:56 UTC] PHP Stack trace:
+[02-Oct-2018 11:23:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 11:23:56 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 11:24:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 12
+[02-Oct-2018 12:03:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 12:03:38 UTC] PHP Stack trace:
+[02-Oct-2018 12:03:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:03:38 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 12:03:38 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 37
+[02-Oct-2018 12:03:38 UTC] PHP Stack trace:
+[02-Oct-2018 12:03:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:03:38 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:37
+[02-Oct-2018 12:03:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 12:03:59 UTC] PHP Stack trace:
+[02-Oct-2018 12:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:03:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 12:03:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 37
+[02-Oct-2018 12:03:59 UTC] PHP Stack trace:
+[02-Oct-2018 12:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:03:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:37
+[02-Oct-2018 12:04:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 33
+[02-Oct-2018 12:04:03 UTC] PHP Stack trace:
+[02-Oct-2018 12:04:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:04:03 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:33
+[02-Oct-2018 12:04:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 37
+[02-Oct-2018 12:04:03 UTC] PHP Stack trace:
+[02-Oct-2018 12:04:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:04:03 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:37
+[02-Oct-2018 12:28:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 31
+[02-Oct-2018 12:28:27 UTC] PHP Stack trace:
+[02-Oct-2018 12:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:28:27 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:31
+[02-Oct-2018 12:28:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 35
+[02-Oct-2018 12:28:27 UTC] PHP Stack trace:
+[02-Oct-2018 12:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[02-Oct-2018 12:28:27 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:35
+[03-Oct-2018 03:27:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 31
+[03-Oct-2018 03:27:01 UTC] PHP Stack trace:
+[03-Oct-2018 03:27:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[03-Oct-2018 03:27:01 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:31
+[03-Oct-2018 03:27:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 35
+[03-Oct-2018 03:27:01 UTC] PHP Stack trace:
+[03-Oct-2018 03:27:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[03-Oct-2018 03:27:01 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:35
+[03-Oct-2018 03:39:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 41
+[03-Oct-2018 03:39:46 UTC] PHP Stack trace:
+[03-Oct-2018 03:39:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[03-Oct-2018 03:39:46 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:41
+[03-Oct-2018 03:39:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 41
+[03-Oct-2018 03:39:49 UTC] PHP Stack trace:
+[03-Oct-2018 03:39:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[03-Oct-2018 03:39:49 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:41
+[03-Oct-2018 03:39:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php on line 41
+[03-Oct-2018 03:39:57 UTC] PHP Stack trace:
+[03-Oct-2018 03:39:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:0
+[03-Oct-2018 03:39:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-order-add.php:41
+[03-Oct-2018 03:44:22 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php on line 27
+[03-Oct-2018 03:44:22 UTC] PHP Stack trace:
+[03-Oct-2018 03:44:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:0
+[03-Oct-2018 03:44:22 UTC] PHP   2. array_sum() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:27
+[03-Oct-2018 03:44:22 UTC] WordPress database error Column 'cost' cannot be null for query INSERT INTO `wp_mb_customer_order` (`customer_order`, `customer_id`, `cost`) VALUES ('Margarita Burger,Margarita Burger', '4jmsgb7t068h9u3dj0lcrlfk00', NULL)
+[03-Oct-2018 03:46:35 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php on line 27
+[03-Oct-2018 03:46:35 UTC] PHP Stack trace:
+[03-Oct-2018 03:46:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:0
+[03-Oct-2018 03:46:35 UTC] PHP   2. array_sum() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:27
+[03-Oct-2018 03:46:35 UTC] WordPress database error Column 'cost' cannot be null for query INSERT INTO `wp_mb_customer_order` (`customer_order`, `customer_id`, `cost`) VALUES ('Margarita Burger,Margarita Burger,Margarita Burger', '4jmsgb7t068h9u3dj0lcrlfk00', NULL)
+[03-Oct-2018 03:47:34 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php on line 27
+[03-Oct-2018 03:47:34 UTC] PHP Stack trace:
+[03-Oct-2018 03:47:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:0
+[03-Oct-2018 03:47:34 UTC] PHP   2. array_sum() /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php:27
+[03-Oct-2018 03:47:34 UTC] WordPress database error Column 'cost' cannot be null for query INSERT INTO `wp_mb_customer_order` (`customer_order`, `customer_id`, `cost`) VALUES ('Margarita Burger,Margarita Burger,Margarita Burger', '4jmsgb7t068h9u3dj0lcrlfk00', NULL)

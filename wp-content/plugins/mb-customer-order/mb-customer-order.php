@@ -117,4 +117,43 @@ if( !function_exists('mb_customer_order_include_template_tags') ) {
     add_action( 'after_setup_theme', 'mb_customer_order_include_template_tags' );
 }
 
+/* 
+* 6. Setup product post type and category taxonomy
+*/
+    require_once( $customer_order_plugin_root . 'inc/cpt-custom-burger.php' );
+    // require_once( $customer_order_plugin_root . 'inc/tax-category.php' );
+    add_action('init', 'mb_custom_burger_ingredients_post_type');
+    // add_action('init', 'mb_ingredient_category_taxonomy');
+
+/*
+ * 7. Include custom CSS styles
+ * Tell WordPress to include custom stylesheet 'assets/mb-customer-order-styles.css'
+ * in our theme so it's included in the document <head>
+*/
+if( !function_exists('mb_customer_order_add_custom_styles') ){
+    function mb_customer_order_add_custom_styles() {
+        global $customer_order_plugin_root_url;
+        
+        /* Enqueue each stylesheet */
+        wp_enqueue_style( 'mb-customer-order', $customer_order_plugin_root_url . 'assets/mb-customer-order-styles.css' );
+    }
+    add_action( 'wp_enqueue_scripts', 'mb_customer_order_add_custom_styles' );
+}
+
+/*
+ * 8. Include custom Javascript
+ * Tell WordPress to include custom stylesheet 'assets/mb-customer-order-java.js'
+ * in our theme so it's included in the document <head>
+*/
+
+if( !function_exists('mb_customer_order_add_custom_javascript') ){
+    function mb_customer_order_add_custom_javascript() {
+        global $customer_order_plugin_root_url;
+        
+        /* Enqueue each stylesheet */
+        wp_enqueue_script( 'mb-customer-order', $customer_order_plugin_root_url . 'assets/mb-customer-order-java.js' );
+    }
+    add_action( 'wp_enqueue_scripts', 'mb_customer_order_add_custom_javascript' );
+}
+
 ?>
