@@ -56,7 +56,7 @@ if ( !function_exists( 'mb_order_docket' ) ) {
             <h3>Total</h3>
             <?php
             $price = str_replace(["[", "]", '"'], "", $price);
-            // echo array_sum($price);
+            echo array_sum($price);
             ?>
             </p>
             <form action="<?php echo $customer_order_plugin_root_url; ?>/wp-content/plugins/mb-customer-order/inc/customer-submit-order.php" method="post">
@@ -71,7 +71,7 @@ if ( !function_exists( 'mb_order_docket' ) ) {
 
 if ( ! function_exists( 'mb_custom_burger' ) ) {
     function mb_custom_burger() {
-    session_unset();    
+        
     // get ingrients posts from database
     $args = array(
         'post_type' => 'ingredient',
@@ -85,21 +85,11 @@ if ( ! function_exists( 'mb_custom_burger' ) ) {
 			        $ingredient->the_post(); 
 			        ?>
 	                				<?php if( has_post_thumbnail() ): ?>
-	            	    				<?php
-	            	    				?>
-	            	    				<div>
-	            	    				<?php
-	            	  
-	            	    				get_the_post_thumbnail_url();
-	            	    				
-	            	    				if  ( ! isset($_SESSION['images'])) {
-                                        $_SESSION['images'] = array();
-                                        }
-                                        array_push($_SESSION['images'],	get_the_post_thumbnail_url());
-                                        ?>
-	            	    				</div>
-	            	    				<?php
-	            	    				?>
+	                				<div class="ingreident-container">
+	            	    				<?php the_post_thumbnail( 'medium', array('class' => 'ingreident-slide') ); ?>
+	            	    				<button class="left-button">Left</button>
+	            	    				<button class="right-button">Right</button>
+	            	    			</div>
 	                				<?php endif; ?>
 		        <?php
 			    }
@@ -108,14 +98,6 @@ if ( ! function_exists( 'mb_custom_burger' ) ) {
 	        	<p>Sorry, we currently have no food products to list</p>
 		    <?php
         }
-    ?>
-    <?php
-    $i = 0
-    ?>
-    <div>
-    <img src="<?php echo $_SESSION['images'][$i] ?>"></img>
-    </div>
-    <?php
     }
 }
 

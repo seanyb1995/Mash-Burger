@@ -625,3 +625,52 @@
 [03-Oct-2018 01:57:13 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
 [03-Oct-2018 01:57:13 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
 [03-Oct-2018 01:57:13 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 03:56:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 97
+[04-Oct-2018 03:56:41 UTC] PHP Stack trace:
+[04-Oct-2018 03:56:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 03:56:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 03:56:41 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 03:56:41 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 03:56:41 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 04:42:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 98
+[04-Oct-2018 04:42:46 UTC] PHP Stack trace:
+[04-Oct-2018 04:42:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 04:42:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 04:42:46 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 04:42:46 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 04:42:46 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 06:06:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 101
+[04-Oct-2018 06:06:32 UTC] PHP Stack trace:
+[04-Oct-2018 06:06:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 06:06:32 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 06:06:32 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 06:06:32 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 06:06:32 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 06:48:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 102
+[04-Oct-2018 06:48:47 UTC] PHP Stack trace:
+[04-Oct-2018 06:48:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 06:48:47 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 06:48:47 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 06:48:47 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 06:48:47 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 08:04:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 100
+[04-Oct-2018 08:04:17 UTC] PHP Stack trace:
+[04-Oct-2018 08:04:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 08:04:17 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 08:04:17 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 08:04:17 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 08:04:17 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 08:08:16 UTC] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 100
+[04-Oct-2018 08:08:16 UTC] PHP Stack trace:
+[04-Oct-2018 08:08:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 08:08:16 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 08:08:16 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 08:08:16 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 08:08:16 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305
+[04-Oct-2018 08:10:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/wp-content/plugins/mb-customer-order/inc/template-tags.php on line 100
+[04-Oct-2018 08:10:17 UTC] PHP Stack trace:
+[04-Oct-2018 08:10:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[04-Oct-2018 08:10:17 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[04-Oct-2018 08:10:17 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[04-Oct-2018 08:10:17 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[04-Oct-2018 08:10:17 UTC] PHP   5. include_once() /home/ubuntu/workspace/wp-settings.php:305

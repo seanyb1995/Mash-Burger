@@ -71,7 +71,7 @@ if ( !function_exists( 'mb_order_docket' ) ) {
 
 if ( ! function_exists( 'mb_custom_burger' ) ) {
     function mb_custom_burger() {
-    session_unset();    
+        
     // get ingrients posts from database
     $args = array(
         'post_type' => 'ingredient',
@@ -85,20 +85,18 @@ if ( ! function_exists( 'mb_custom_burger' ) ) {
 			        $ingredient->the_post(); 
 			        ?>
 	                				<?php if( has_post_thumbnail() ): ?>
-	            	    				<?php
-	            	    				?>
-	            	    				<div>
-	            	    				<?php
-	            	  
+	            	    				<?php 
+	            	    				
 	            	    				get_the_post_thumbnail_url();
 	            	    				
 	            	    				if  ( ! isset($_SESSION['images'])) {
                                         $_SESSION['images'] = array();
                                         }
+                                        
                                         array_push($_SESSION['images'],	get_the_post_thumbnail_url());
-                                        ?>
-	            	    				</div>
-	            	    				<?php
+                                        
+                                        print_r($_SESSION['images']);
+	            	    				
 	            	    				?>
 	                				<?php endif; ?>
 		        <?php
@@ -108,14 +106,6 @@ if ( ! function_exists( 'mb_custom_burger' ) ) {
 	        	<p>Sorry, we currently have no food products to list</p>
 		    <?php
         }
-    ?>
-    <?php
-    $i = 0
-    ?>
-    <div>
-    <img src="<?php echo $_SESSION['images'][$i] ?>"></img>
-    </div>
-    <?php
     }
 }
 

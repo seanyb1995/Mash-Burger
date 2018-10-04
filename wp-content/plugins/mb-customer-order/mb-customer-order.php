@@ -146,14 +146,4 @@ if( !function_exists('mb_customer_order_add_custom_styles') ){
  * in our theme so it's included in the document <head>
 */
 
-if( !function_exists('mb_customer_order_add_custom_javascript') ){
-    function mb_customer_order_add_custom_javascript() {
-        global $customer_order_plugin_root_url;
-        
-        /* Enqueue each stylesheet */
-        wp_enqueue_script( 'mb-customer-order', $customer_order_plugin_root_url . 'assets/mb-customer-order-java.js' );
-    }
-    add_action( 'wp_enqueue_scripts', 'mb_customer_order_add_custom_javascript' );
-}
-
 ?>
